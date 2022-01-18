@@ -118,7 +118,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-STATIFFILES_DIR = [
+STATICFILES_DIR = [
     BASE_DIR / 'all_statics',
 ]
 
